@@ -1,6 +1,7 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Welcome to Your Vue.js App"/>
+  sec
+  <img src="./assets/landingpage-img.jpeg" alt="" />
+  <HelloWorld msg="Find the nearest hospital to you and make an appointment"/>
 </template>
 
 <script>
